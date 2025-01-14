@@ -4,7 +4,7 @@
 This project focuses on enhancing the XV6 operating system by adding custom system calls and features. Additionally, a multithreaded file management system was implemented as part of the second phase.
 
 ## Part 1: Customized XV6 System Calls
-In this part, we implemented several new system calls and synchronization mechanisms in XV6:
+In this part, I implemented several new system calls and synchronization mechanisms in XV6:
 
 ### 1. `killall()`
 - **Description**: Kills all descendant processes of the current process.
